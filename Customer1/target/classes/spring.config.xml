@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<bean id="cust" class="com.Snycon.Customer1.Customer">
+<property name="cid" value="102"></property>
+<property name="cname" value="fahad"></property>
+<property name="email" value="Fahad123@gmail.com"></property>
+<property name="address" value="Sigma Tech Park"></property>
+<property name="phone" value="123445643"></property>
+
+
+
+
+
+</bean>
+
+</beans>
